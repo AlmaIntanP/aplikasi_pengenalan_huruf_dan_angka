@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="search">SEARCH</string>
+    <string name="search_hint">cari</string>
+    <string name="aplikasi">Aplikasi</string>
+    <string name="pengenalan_huruf">Pengenalan Huruf</string>
+    <string name="pengenalan_angka">Pengenalan Angka</string>
+    <string name="mengenal">Pengenalan huruf pada anak sejak usia dini sangat penting dilakukan agar anak dapat mengenal huruf-huruf untuk persiapan membaca dan menulis. Anak yang dapat mengenal huruf dengan baik cenderung memiliki kemampuan membaca dengan lebih baik.
+    Mengenal angka adalah suatu kemampuan kognitif anak, dalam pengembangan kognitif ini bertujuan mengembangkan kemampuan di bidang berfikir anak, membantu mengembangkan kemampuan logika matematika.</string>
+</resources>
